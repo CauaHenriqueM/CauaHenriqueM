@@ -16,11 +16,10 @@
 ### 👨‍💻 Sobre mim
 
 - 🎓 Curso **Engenharia de Software** na **Universidade de Brasília (UnB)**
-- 💻 Desenvolvedor **Full-Stack** — do front-end à automação
+- 💻 Desenvolvedor **Full-Stack**
 - 🚀 Gosto de construir produtos de ponta a ponta: interface, API, banco de dados e deploy
 - 🤖 Curto **automação** e integrações — bots, agendamentos e APIs
 - 🌱 Sempre aprofundando back-end, banco de dados e arquitetura de sistemas
-- 💬 Me chame sobre **JavaScript, React, Node.js e Python**
 - 📫 Contato: **cauahmourarodrigues@gmail.com**
 
 ---
@@ -28,10 +27,8 @@
 ### 🛠️ Linguagens e Tecnologias
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,html,css,react,nodejs,express,python,java,c,cpp,cs,mysql,mongodb,linux,git,github&perline=8" alt="Stack de tecnologias"/>
+  <img src="https://skillicons.dev/icons?i=js,html,css,react,nodejs,python,java,c,cs,mysql,mongodb,linux,git,github&perline=8" alt="Stack de tecnologias"/>
 </p>
-
-> Também trabalho com **COBOL** em sistemas legados.
 
 ---
 
