@@ -42,9 +42,3 @@
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=CauaHenriqueM&hide_border=true&theme=tokyonight" alt="Sequência de contribuições"/>
 </p>
-
----
-
-<p align="center">
-  <i>"Não escrevo só código — entrego produtos."</i>
-</p>
