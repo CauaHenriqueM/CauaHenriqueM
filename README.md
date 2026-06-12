@@ -1,16 +1,53 @@
-## Hi there 👋
+<h1 align="center">Olá, eu sou o Cauã Henrique 👋</h1>
+<h3 align="center">Engenheiro de Software em formação · Desenvolvedor Full-Stack</h3>
 
-<!--
-**CauaHenriqueM/CauaHenriqueM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <a href="https://www.linkedin.com/in/cauahm/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:cauahmourarodrigues@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=CauaHenriqueM&style=for-the-badge&color=0A66C2&label=PERFIL+VISITAS" alt="Profile views"/>
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 👨‍💻 Sobre mim
+
+- 🎓 Curso **Engenharia de Software** na **Universidade de Brasília (UnB)**
+- 💻 Desenvolvedor **Full-Stack** — do front-end à automação
+- 🚀 Gosto de construir produtos de ponta a ponta: interface, API, banco de dados e deploy
+- 🤖 Curto **automação** e integrações — bots, agendamentos e APIs
+- 🌱 Atualmente aprofundando **Docker**, **AWS** e arquitetura de sistemas
+- 💬 Me chame sobre **JavaScript, React, Node.js e Python**
+- 📫 Contato: **cauahmourarodrigues@gmail.com**
+
+---
+
+### 🛠️ Linguagens e Tecnologias
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,html,css,react,nodejs,express,python,java,c,cpp,cs,mysql,mongodb,docker,aws,linux,git,github&perline=10" alt="Stack de tecnologias"/>
+</p>
+
+> Também trabalho com **COBOL** em sistemas legados.
+
+---
+
+### 📊 Estatísticas do GitHub
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=CauaHenriqueM&show_icons=true&count_private=true&hide_border=true&theme=tokyonight" alt="Estatísticas do GitHub"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CauaHenriqueM&layout=compact&langs_count=8&hide_border=true&theme=tokyonight" alt="Linguagens mais usadas"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=CauaHenriqueM&hide_border=true&theme=tokyonight" alt="Sequência de contribuições"/>
+</p>
+
+---
+
+<p align="center">
+  <i>"Não escrevo só código — entrego produtos."</i>
+</p>
