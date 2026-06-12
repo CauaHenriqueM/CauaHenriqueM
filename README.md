@@ -19,7 +19,7 @@
 - 💻 Desenvolvedor **Full-Stack** — do front-end à automação
 - 🚀 Gosto de construir produtos de ponta a ponta: interface, API, banco de dados e deploy
 - 🤖 Curto **automação** e integrações — bots, agendamentos e APIs
-- 🌱 Atualmente aprofundando **Docker**, **AWS** e arquitetura de sistemas
+- 🌱 Sempre aprofundando back-end, banco de dados e arquitetura de sistemas
 - 💬 Me chame sobre **JavaScript, React, Node.js e Python**
 - 📫 Contato: **cauahmourarodrigues@gmail.com**
 
@@ -28,7 +28,7 @@
 ### 🛠️ Linguagens e Tecnologias
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,html,css,react,nodejs,express,python,java,c,cpp,cs,mysql,mongodb,docker,aws,linux,git,github&perline=10" alt="Stack de tecnologias"/>
+  <img src="https://skillicons.dev/icons?i=js,html,css,react,nodejs,express,python,java,c,cpp,cs,mysql,mongodb,linux,git,github&perline=8" alt="Stack de tecnologias"/>
 </p>
 
 > Também trabalho com **COBOL** em sistemas legados.
