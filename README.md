@@ -39,6 +39,3 @@
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CauaHenriqueM&layout=compact&langs_count=8&hide_border=true&theme=tokyonight" alt="Linguagens mais usadas"/>
 </p>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=CauaHenriqueM&hide_border=true&theme=tokyonight" alt="Sequência de contribuições"/>
-</p>
