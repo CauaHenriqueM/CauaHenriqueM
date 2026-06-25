@@ -27,7 +27,7 @@
 ### 🛠️ Linguagens e Tecnologias
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,html,css,react,nodejs,python,java,c,cs,mysql,mongodb,docker,linux,git,github&perline=8" alt="Stack de tecnologias"/>
+  <img src="https://skillicons.dev/icons?i=js,html,css,react,nodejs,python,java,c,cs,mysql,docker,mongodb,linux,git,github&perline=8" alt="Stack de tecnologias"/>
 </p>
 
 ---
