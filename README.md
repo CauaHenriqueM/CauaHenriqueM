@@ -19,7 +19,7 @@
 - 🚀 Gosto de construir produtos de ponta a ponta: interface, API, banco de dados e deploy
 - 🤖 Curto **automação** e integrações — bots, agendamentos e APIs
 - 🌱 Sempre aprofundando back-end, banco de dados e arquitetura de sistemas
-- 📫 Contato: **cauahmourarodrigues@gmail.com**
+- 📫 Contato: **contatocauahm@gmail.com**
 
 ---
 
