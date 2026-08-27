@@ -16,9 +16,9 @@
 
 - 🎓 Curso **Engenharia de Software** na **Universidade de Brasília (UnB)**
 - 💻 Desenvolvedor **Full-Stack**
-- 🚀 Gosto de construir produtos de ponta a ponta: interface, API, banco de dados e deploy
-- 🤖 Curto **automação** e integrações — bots, agendamentos e APIs
-- 🌱 Sempre aprofundando back-end, banco de dados e arquitetura de sistemas
+- 🚀 Construção de produtos de ponta a ponta: interface, API, banco de dados e deploy
+- 🤖 **Automações** e integrações — bots, agendamentos e APIs
+- 🌱 Back-end, banco de dados e arquitetura de sistemas
 - 📫 Contato: **contatocauahm@gmail.com**
 
 ---
