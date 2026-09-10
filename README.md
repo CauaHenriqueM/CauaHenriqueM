@@ -5,13 +5,13 @@
 <table>
   <tr>
     <td width="62%" align="center"><br>
-  ⊹ ₊  ⁺‧₊˚ ⊹ ˚₊‧⁺ ₊ ⊹<br><br>
+<img width="260" alt="gif do topo" src="https://raw.githubusercontent.com/CauaHenriqueM/CauaHenriqueM/main/assets/giphy.gif"><br><br>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/CauaHenriqueM/CauaHenriqueM/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/CauaHenriqueM/CauaHenriqueM/output/github-contribution-grid-snake.svg">
   <img width="100%" alt="cobrinha comendo o gráfico de contribuições" src="https://raw.githubusercontent.com/CauaHenriqueM/CauaHenriqueM/output/github-contribution-grid-snake.svg">
 </picture><br><br>
-<b>🪄 Stacks</b><br><br>
+<b>Skills</b><br><br>
 <div align="center">
   <img align="center" alt="javascript" height="25" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg">
   <img align="center" alt="typescript" height="25" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg">
@@ -43,29 +43,28 @@
 
 ##
 
-<b>🚀 No que eu trabalho:</b>
+<b>No que eu trabalho:</b>
 
-> 💜 Produtos de ponta a ponta — interface, API, banco e deploy.<br/>
-> 💜 Automações e integrações: bots, agendamentos, scraping e APIs de terceiros.
+>  Faço de tudo, bb. Produtos de ponta a ponta - interface, API, banco e deploy.<br/>
+>  Automações e integrações: bots, agendamentos, scraping e APIs de terceiros.
 
 <div align="center">
-  <img height="165" alt="estatísticas do GitHub" src="https://github-readme-stats.vercel.app/api?username=CauaHenriqueM&show_icons=true&hide_border=true&title_color=7A3FEA&icon_color=7A3FEA&text_color=A6A4B2&bg_color=0D1117">
-  <img height="165" alt="linguagens mais usadas" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CauaHenriqueM&layout=compact&langs_count=8&hide_border=true&title_color=7A3FEA&text_color=A6A4B2&bg_color=0D1117">
+  <img height="165" alt="estatísticas do GitHub" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=CauaHenriqueM&theme=github_dark">
+  <img height="165" alt="linguagens mais usadas" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=CauaHenriqueM&theme=github_dark">
 </div>
 
 ##
 
-<b>🌐 Onde me achar:</b>
+<b>✉️ contatos:</b>
 
 <div>
-  <a href="https://www.linkedin.com/in/cauahm/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-7A3FEA?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="mailto:contatocauahm@gmail.com"><img src="https://img.shields.io/badge/Gmail-7A3FEA?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://github.com/CauaHenriqueM" target="_blank"><img src="https://img.shields.io/badge/GitHub-7A3FEA?style=for-the-badge&logo=github&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/cauahm/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="mailto:contato@licitasks.com.br"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </div>
 
 ##
 
 <i>Software bom é o que a pessoa usa sem perceber que existe.</i> ⭐️<br><br>
-<img width="220" alt="gif do rodapé" src="https://raw.githubusercontent.com/CauaHenriqueM/CauaHenriqueM/main/assets/giphy.gif">
+<img width="200" alt="arte do rodapé" src="https://raw.githubusercontent.com/CauaHenriqueM/CauaHenriqueM/main/assets/imoral.jpg">
 
 ##
