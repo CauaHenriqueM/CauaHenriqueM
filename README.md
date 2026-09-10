@@ -40,6 +40,12 @@
     </td>
   </tr>
 </table>
+<b>✉️ contatos:</b>
+
+<div>
+  <a href="https://www.linkedin.com/in/cauahm/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="mailto:contato@licitasks.com.br"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"></a>
+</div>
 
 ##
 
@@ -55,16 +61,9 @@
 
 ##
 
-<b>✉️ contatos:</b>
 
-<div>
-  <a href="https://www.linkedin.com/in/cauahm/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="mailto:contato@licitasks.com.br"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"></a>
-</div>
 
 ##
-
-<i>Software bom é o que a pessoa usa sem perceber que existe.</i> ⭐️<br><br>
 <img width="200" alt="arte do rodapé" src="https://raw.githubusercontent.com/CauaHenriqueM/CauaHenriqueM/main/assets/imoral.jpg">
 
 ##
